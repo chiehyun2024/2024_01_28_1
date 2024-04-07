@@ -5,3 +5,6 @@ pandas
 numpy
 matplotlib
 openpyxl
+Jinja2
+pandas-datareader
+yfinance
